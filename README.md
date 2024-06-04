@@ -35,3 +35,11 @@ This is a React-based Notes App that allows users to create, edit, and delete no
 
 - **Sidebar**: Displays a list of notes and allows users to create or delete notes.
 - **Editor**: A text editor for writing and editing notes with Markdown support.
+
+## App screenshots
+
+### Write mode
+![alt text](./static/image-1.png)
+
+### Preview mode
+![alt text](./static/image.png)
